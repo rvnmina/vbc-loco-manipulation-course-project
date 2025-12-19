@@ -16,3 +16,7 @@ partial modifications carried out for the course assignment.
 - The focus of this project was experimentation, understanding, and simulation
   results rather than delivering a fully production-ready system
 
+### All simulation videos are available at the following Google Drive link:
+
+https://drive.google.com/drive/folders/191h1cJBPZcyNAuqhNC8IWkE8gP8al6wi?usp=sharing
+
